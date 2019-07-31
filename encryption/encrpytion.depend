@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552514944 source:c:\users\rober\desktop\encrpytion\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
+1553621662 source:c:\users\rober\desktop\encryption\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
